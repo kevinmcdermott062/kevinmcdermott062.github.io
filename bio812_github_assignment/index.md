@@ -52,6 +52,9 @@ output: html_document
 3 - Submit a pull request
 Add a link to this webpage by submitting a pull request to this repository (https://github.com/jstaf/biol812-assignment).
 
+#### Here is the link to my new 812 webpage assignment
+#### [Kevin McDermott] (https://kevinmcdermott062.github.io/bio812_github_assignment/bio812_github_assignment/index.md)
+
 The links should have your name and link to your assignment site. Example:
 
 [Jeff Stafford](https://jstaf.github.io/biol812-assignment)
