@@ -62,7 +62,7 @@ Link to my assignment
 
 
 #### Here is the link to my new 812 webpage assignment
-#### [Kevin McDermott] (https://kevinmcdermott062.github.io/bio812_github_assignment/bio812_github_assignment/README.md)
+#### [Kevin McDermott] (https://kevinmcdermott062.github.io/bio812_github_assignment/README.md)
 #### Kevin McDermott
 
 
