@@ -5,45 +5,45 @@ date: '2018-01-31'
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-###When should you use Git for a project?
 
-####Answer: Anytime you want to ensure you have a back-up of the versions of your code/work and when you want have multiple people collaborating on a project.
+## When should you use Git for a project?
+
+#### Answer: Anytime you want to ensure you have a back-up of the versions of your code/work and when you want have multiple people collaborating on a project.
 
 
 
 
-###What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repo?
+## What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repo?
 
-####Answer: A Git repo is really useful to store code for coding projects. Data and any username/pw should never be stored in a Git repo as the repo is public.
+#### Answer: A Git repo is really useful to store code for coding projects. Data and any username/pw should never be stored in a Git repo as the repo is public.
 
 
 
-###What are the commands to undo a commit?
+## What are the commands to undo a commit?
 
-####Answer: git reset HEAD~
+#### Answer: git reset HEAD~
    
 
 
-###One of your repositories is in a “detached HEAD” state. How do you fix this?
+## One of your repositories is in a “detached HEAD” state. How do you fix this?
 
-####Answer:git reset --hard
+#### Answer:git reset --hard
 
 
 
-####Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project. Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.
+## Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project. Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.
 
-####Answer: Pros for using Git
+#### Answer: Pros for using Git
 
 * acts as a back up
 * can revert to any previous version for my thesis.
 * collaborators/PI  can make edits and they are tracked
 
 #### Cons for Using Git
-
+*
+*
+*
 
 
 
