@@ -1,9 +1,13 @@
+---
 title: "bio812github_asssignment"
 author: "Kevin McDermott"
 date: '2018-01-31'
+output: html_document
+---
 
-
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ###When should you use Git for a project?
 
